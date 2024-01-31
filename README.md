@@ -9,6 +9,9 @@ Below are some examples of pages that were build in Undoom
 ## Customer Overview
 <img width="1501" alt="image" src="https://github.com/Mhttt/Undoom/assets/74661052/84710268-a4bd-43e5-9383-566b73042705">
 
+## Customer Travel Page
+<img width="1512" alt="image" src="https://github.com/Mhttt/Undoom/assets/74661052/04ed3fc1-8ece-4c3c-9b0b-20b24568494f">
+
 ## Unattached regress messages
 <img width="1503" alt="image" src="https://github.com/Mhttt/Undoom/assets/74661052/5a133d8f-7ecd-4b12-a826-24a7b1d06673">
 
